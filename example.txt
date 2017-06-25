@@ -1,1 +1,125 @@
-My favourite color is Red
+623  git remote add origin git@github.com:SmithaHonnudike/raghuveer.git
+  624  git push -u origin master
+  625  ls
+  626  pwd
+  627  git init
+  628  git log
+  629  clear 
+  630  git remote -v
+  631  git log
+  632  clear 
+  633  git brnach
+  634  git branch
+  635  git --help
+  636  git help -a
+  637  clear 
+  638  pwd
+  639  cd ../learning/
+  640  ll
+  641  ls 
+  642  clear 
+  643  ll
+  644  vi example.txt
+  645  git diff
+  646  cat example.txt 
+  647  git add .
+  648  git commit -am 'adding my first file '
+  649  clear 
+  650  git log 
+  651  clear 
+  652  git log
+  653  clear 
+  654  git branchj
+  655  git branch
+  656  git branch -n red
+  657  git branch red
+  658  git branch
+  659  git checkout red
+  660  git branch
+  661  clear 
+  662  ll
+  663  vi example.txt 
+  664  git diff
+  665  git branch
+  666  git commit -am "change color to red"
+  667  git log
+  668  git checkout master
+  669  git log
+  670  clear 
+  671  git branch
+  672  git checkout red
+  673  cat example.txt 
+  674  git chechout master
+  675  git checkout master
+  676  git branch
+  677  git merge
+  678  git checkout red
+  679  git merge
+  680  git merge master
+  681  pwd
+  682  git checkout master
+  683  git merge red
+  684  clear 
+  685  pwd
+  686  git branch
+  687  cat example.txt 
+  688  git checkout -b blue
+  689  git branch
+  690  vi example.txt 
+  691  git commit -am 'changing color to blue'
+  692  ls -l
+  693  rm -rf README.md 
+  694  ls -l
+  695  git branch
+  696  git checkout master
+  697  ls -l
+  698  clear 
+  699  ls -l
+  700  git checkout red
+  701  ls -l
+  702  git status
+  703  git checkout blue
+  704  git commit -am 'deleting readme'
+  705  clear 
+  706  ls -l
+  707  git status
+  708  git chechout master
+  709  git checkout master
+  710  ls -l
+  711  git branch
+  712  git checkout blue
+  713  ll
+  714  vi Raghuveer.txt
+  715  git status
+  716  git add Raghuveer.txt 
+  717  git status
+  718  git commit -am 'adding raghuveer.txt'
+  719  clear 
+  720  git checkout master
+  721  ls -l
+  722  git checkout red
+  723  ls 
+  724  git checkout blue
+  725  ls -l
+  726  git checkout red
+  727  ll
+  728  git remote -v
+  729  git push origin red
+  730  pwd
+  731  git branch
+  732  git checkout blue
+  733  git checkout red
+  734  clear 
+  735  ls -l
+  736  git pull . blue
+  737  ls -l
+  738  git checkout master
+  739  ls -l
+  740  git branch -D red
+  741  git branch -D blue
+  742  git branch
+  743  ls -l
+  744  c
+  745  history
+mac-2:learning raghavendrarao$ 
+
